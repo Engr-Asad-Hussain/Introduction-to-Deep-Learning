@@ -12,3 +12,4 @@ This program is the best example by which you may compute the area of a triangle
 The slightly difference between the above is that in this program you may calculate the multiple area(s) of triangle(s) just by inputting the number of sides of a triangle.
 
 - ### **Area of a Triangle(s) Using Placeholder**
+Using the placeholder while determining the area use very useful. This makes your model Dynamic nature that is this can be use as a input parameter.
